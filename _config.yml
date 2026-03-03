@@ -1,7 +1,7 @@
-title: Qcole22's Insane Blog Empire  # Your blog's headline
+title: Quentin Rusnell - DevOps Engineer  # Your portfolio headline
 email: qcole2257@gmail.com       # For contact forms
 description: >-                     # Site meta description
-  Devops Engineer sharing insights on startups, investing, and tech.
+  DevOps Engineer specializing in cloud infrastructure, automation, AWS, Azure, Docker, Kubernetes, Terraform, CI/CD pipelines.
 baseurl: ""                         # Leave blank for root domain
 url: "https://qcole22.github.io"    # Your full site URL
 LinkedIn: https://www.linkedin.com/in/quentin-rusnell/ # For LinkedIn cards and sharing

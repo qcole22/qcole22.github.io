@@ -149,3 +149,48 @@ a {
 ::-webkit-scrollbar-thumb:hover {
   background: darken($accent-color, 10%);
 }
+
+// Portfolio sections
+section {
+  margin-bottom: 3rem;
+  padding: 2rem;
+  background-color: lighten($background-color, 5%);
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+section h2 {
+  color: $accent-color;
+  border-bottom: 2px solid $accent-color;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+section h3 {
+  color: $link-color;
+  margin-top: 1.5rem;
+}
+
+section ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+section li {
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+  border-left: 3px solid $accent-color;
+}
+
+.resume-item {
+  margin-bottom: 2rem;
+}
+
+.resume-item h4 {
+  color: $accent-color;
+  margin-bottom: 0.5rem;
+}
+
+.resume-item ul {
+  margin-top: 0.5rem;
+}
