@@ -7,5 +7,9 @@ url: "https://qcole22.github.io"    # Your full site URL
 LinkedIn: https://www.linkedin.com/in/quentin-rusnell/ # For LinkedIn cards and sharing
 github_username: qcole22            # Links back to your profile
 theme: minima                       # Default theme; swap to something flashy later
+
+
+
+
 plugins:
   - jekyll-feed                     # Enables RSS for subscribers
